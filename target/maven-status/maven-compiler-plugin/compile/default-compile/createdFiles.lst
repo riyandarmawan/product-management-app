@@ -1,0 +1,7 @@
+controller\produk\DetailController.class
+model\DaftarProduk.class
+model\Produk.class
+controller\produk\DaftarController.class
+controller\produk\TambahController.class
+main\Main.class
+main\Navigator.class
